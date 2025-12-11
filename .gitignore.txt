@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+*.csv
+*.parquet
+*.pkl
+*.pickle
+.DS_Store
+Thumbs.db
